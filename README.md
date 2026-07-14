@@ -25,7 +25,7 @@ The objective of this project was to help Walmart's commercial team evaluate sal
 
 ## Dashboard Preview
 
-*(Dashboard image will be added here in the next step.)*
+![Walmart Dashboard](dashboard.png)
 
 ## Key Findings
 
