@@ -2,7 +2,7 @@
 
 **Main project workbook**
 
-➡️ ****
+➡️ **https://github.com/titankrak-hash/walmart-business-dashboard/raw/refs/heads/main/Proyecto%202_%20Resumen%20Ejecutivo%20de%20Ventas%20Walmart%20%20%20(1).xlsx**
 
 # Walmart Business Dashboard
 
