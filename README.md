@@ -1,3 +1,9 @@
+## 📂 Project Files
+
+**Main project workbook**
+
+➡️ ****
+
 # Walmart Business Dashboard
 
 Business Intelligence dashboard developed in Microsoft Excel to analyze Walmart's 2012 sales performance through data cleaning, KPI creation, Pivot Tables, and interactive visualizations.
